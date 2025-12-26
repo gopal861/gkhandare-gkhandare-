@@ -1,4 +1,4 @@
-# gkhandare-gkhandare-## Hi, I’m Gopal 
+## Hi, I’m Gopal 
 
 I’m a Generative AI Engineer focused on building real-world, production-style AI systems.
 
